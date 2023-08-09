@@ -8,7 +8,7 @@ Companion.Ai
 
 ---
 
-This is a basic implementation of a throw out which will scrap primarily starting from the following url:
+This is a live url of the project:
 
 https://ai-companion-ipw5gfi6l-zian786.vercel.app/
 
@@ -18,14 +18,15 @@ It is a Ai model which is really interesting for anybody. These features are so 
 
 ## Requirements
 
-For development, you will only need Node.js and a node global package, NPM, installed in your environement.
+For development, you will only need Node.js and a node global package, NPM, installed in your environment.
 
 External packages used:
 
     "@upstash/redis": "^1.22.0",
     "ai": "^2.1.32",
     "langchain": "^0.0.124",
-    "openai": "^3.3.0"
+    "openai": "^3.3.0",
+    "openai-edge": "^1.2.2"
 
 ---
 
