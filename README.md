@@ -1,22 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Project Title
 
-## Getting Started
+Companion.Ai
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Project Description
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This is a basic implementation of a throw out which will scrap primarily starting from the following url:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+https://ai-companion-ipw5gfi6l-zian786.vercel.app/
+
+It is a Ai model which is really interesting for anybody. These features are so cool.
+
+---
+
+## Requirements
+
+For development, you will only need Node.js and a node global package, NPM, installed in your environement.
+
+External packages used:
+
+    "@upstash/redis": "^1.22.0",
+    "ai": "^2.1.32",
+    "langchain": "^0.0.124",
+    "openai": "^3.3.0"
+
+---
+
+## Install
+
+    $ git clone https://github.com/ZIAN786/ai-companion
+    $ cd ai-companion
+    $ npm install
+
+## Running the project
+
+    $ npm run dev
 
 ## Learn More
 
