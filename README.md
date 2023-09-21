@@ -12,7 +12,7 @@ This is a live url of the project:
 
 https://ai-companion-ipw5gfi6l-zian786.vercel.app/
 
-It is a Ai model which is really interesting for anybody. These features are so cool.
+This project focuses on the research, development, and deployment of an artificial intelligence (AI) model tailored to address specific business needs. The AI model aims to enable intelligent decision-making, automate processes, and enhance overall efficiency within the targeted domain.
 
 ---
 
@@ -40,17 +40,10 @@ External packages used:
 
     $ npm run dev
 
-## Learn More
+## Following are thoughts or questions/answers:
 
-To learn more about Next.js, take a look at the following resources:
+1. This provides instant responses to users' inquiries, helping with common questions & issues.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. It offers 24/7 availability, ensuring customers get assistance even outside of busy hours.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+3. AI gives clarifications for complex ideas and offers study advice.
