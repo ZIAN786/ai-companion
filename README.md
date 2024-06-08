@@ -12,6 +12,10 @@ This is a live url of the project:
 
 https://ai-companion-zian786.vercel.app/
 
+AI website, where the cutting-edge meets the user-friendly! Dive into a world of artificial intelligence innovation and discover how this transformative technology can revolutionize your business, streamline your processes, and enhance your everyday life.
+
+AI website serves as a gateway to a vast array of AI-powered solutions, tools, and resources designed to meet the diverse needs of businesses and individuals alike. Whether you're looking to automate repetitive tasks, gain insights from data analytics, or enhance customer experiences, our AI offerings have you covered.
+
 This project focuses on the research, development, and deployment of an artificial intelligence (AI) model tailored to address specific business needs. The AI model aims to enable intelligent decision-making, automate processes, and enhance overall efficiency within the targeted domain.
 
 ---
