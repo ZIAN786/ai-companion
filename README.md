@@ -10,7 +10,7 @@ Companion.Ai
 
 This is a live url of the project:
 
-https://ai-companion-ipw5gfi6l-zian786.vercel.app/
+https://ai-companion-phi-ivory.vercel.app/
 
 This project focuses on the research, development, and deployment of an artificial intelligence (AI) model tailored to address specific business needs. The AI model aims to enable intelligent decision-making, automate processes, and enhance overall efficiency within the targeted domain.
 
